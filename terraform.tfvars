@@ -1,0 +1,6 @@
+region = "us-west-1"
+ami = "ami-072d0c3766d522751"
+instance_type = "t2.nano"
+key_name = "test"
+Name = "dev-server"
+Env= "dev"
